@@ -33,7 +33,7 @@ The program has the following features:
     
     bashCopy code
     
-    `git clone https://github.com/kn4kng/ham-radio-contact-logger.git` 
+    `git clone https://github.com/KN4KNG/ham-radio-contact-logger.git` 
     
 2.  Install the required Python packages:
     
