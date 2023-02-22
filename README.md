@@ -3,7 +3,8 @@
 
 This is a simple Python program that allows users to log their amateur radio contacts. The program uses a graphical user interface (GUI) built with the tkinter library. The log entries are stored in a CSV file, and the program uses the callook.info API to get the name and location of the station being logged.
 
-![Screenshot]([https://imgur.com/a/30HB4Gp])
+![Screenshot](https://user-images.githubusercontent.com/13407752/220687993-16a22022-ae17-447e-bb39-30420f85abe1.png)
+
 
 ## Features
 
