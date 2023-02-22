@@ -45,7 +45,7 @@ The program has the following features:
     
     Copy code
     
-    `python ham_radio_contact_logger.py` 
+    `python net_contact_logger.py` 
     
 
 ## Usage
