@@ -3,6 +3,8 @@
 
 This is a simple Python program that allows users to log their amateur radio contacts. The program uses a graphical user interface (GUI) built with the tkinter library. The log entries are stored in a CSV file, and the program uses the callook.info API to get the name and location of the station being logged.
 
+![Screenshot](https://imgur.com/a/30HB4Gp)
+
 ## Features
 
 The program has the following features:
@@ -33,7 +35,7 @@ The program has the following features:
     
     bashCopy code
     
-    `git clone https://github.com/KN4KNG/ham-radio-contact-logger.git` 
+    `git clone https://github.com/kn4kng/ham-radio-contact-logger.git` 
     
 2.  Install the required Python packages:
     
@@ -45,7 +47,7 @@ The program has the following features:
     
     Copy code
     
-    `python net_contact_logger.py` 
+    `python ham_radio_contact_logger.py` 
     
 
 ## Usage
